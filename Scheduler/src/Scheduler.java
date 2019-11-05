@@ -9,45 +9,28 @@ public class Scheduler {
         this.machines = machines;
     }
 
-    private void sortByTotalTime(){
-        for(int i = 0; i < machines.length; i++){
-            int pos = i;
-            for(int j = i; j < machines.length; j++){
-                if(machines[j].getTotalTime() < machines[pos].getTotalTime()){
-                    pos = j;
-                }
+    private int findLowerTimeMachine(){
+        int pos = 0;
+        for(int i = 1; i < machines.length; i++){
+            if(machines[i].getTotalTime() < machines[pos].getTotalTime()){
+                pos = i;
             }
-
-            Machine tem = machines[i];
-            machines[i] = machines[pos];
-            machines[pos] = tem;
         }
+        return pos;
     }
-    
+
     public void makeSchedule(ArrayList<Job> jobs){
 
         while (jobs.size() > 0){
-            if(jobs.size() > 0){
-                sortByTotalTime();
-                machines[0].assignJob(jobs.remove(0));
-            }
+            int pos = findLowerTimeMachine();
+            machines[pos].assignJob(jobs.remove(0));
         }
 
     }
 
-    public void printschedule(){
-        for(int i = 0; i < machines.length; i++){
-            int pos = i;
-            for(int j = i; j < machines.length; j++){
-                if(machines[j].getNbr() < machines[pos].getNbr()){
-                    pos = j;
-                }
-            }
+    public void printschedule() {
 
-            Machine tem = machines[i];
-            machines[i] = machines[pos];
-            machines[pos] = tem;
-
+        for (int i = 0; i < machines.length; i++) {
             System.out.println(machines[i]);
         }
     }

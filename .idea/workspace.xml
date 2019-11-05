@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scheduler/Scheduler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scheduler/src/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scheduler/src/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scheduler/src/SchdulerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scheduler/src/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scheduler/src/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scheduler/src/Scheduler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +143,7 @@
       <workItem from="1572871589634" duration="269000" />
       <workItem from="1572888417644" duration="9000" />
       <workItem from="1572977330270" duration="10000" />
-      <workItem from="1572977878995" duration="5202000" />
+      <workItem from="1572977878995" duration="6261000" />
     </task>
     <servers />
   </component>
