@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exam02/Exam02.iml" filepath="$PROJECT_DIR$/Exam02/Exam02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam03/Exam03.iml" filepath="$PROJECT_DIR$/Exam03/Exam03.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/JavaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scheduler/Scheduler.iml" filepath="$PROJECT_DIR$/Scheduler/Scheduler.iml" />
     </modules>
   </component>
 </project>
