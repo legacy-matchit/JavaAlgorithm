@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scheduler/src/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scheduler/src/Scheduler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +142,9 @@
       <workItem from="1572871589634" duration="269000" />
       <workItem from="1572888417644" duration="9000" />
       <workItem from="1572977330270" duration="10000" />
-      <workItem from="1572977878995" duration="6261000" />
+      <workItem from="1572977878995" duration="6662000" />
+      <workItem from="1573070485751" duration="17000" />
+      <workItem from="1573070563287" duration="1621000" />
     </task>
     <servers />
   </component>
@@ -155,7 +156,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
