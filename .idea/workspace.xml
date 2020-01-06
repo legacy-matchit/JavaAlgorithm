@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scheduler/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scheduler/Scheduler.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +22,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SYrRyjtTfYHCWpIZnHbZY5iRt0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,24 +40,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SchdulerDemo">
+  <component name="RunManager" selected="Application.MainTest">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Game" />
       <module name="Exam03" />
@@ -113,13 +107,25 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SchdulerDemo" />
         <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.SchdulerDemo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainDemo" />
         <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -144,7 +150,11 @@
       <workItem from="1572977330270" duration="10000" />
       <workItem from="1572977878995" duration="6662000" />
       <workItem from="1573070485751" duration="17000" />
-      <workItem from="1573070563287" duration="1621000" />
+      <workItem from="1573070563287" duration="2770000" />
+      <workItem from="1574712349748" duration="557000" />
+      <workItem from="1574713454633" duration="59000" />
+      <workItem from="1576436336364" duration="853000" />
+      <workItem from="1576824133628" duration="113000" />
     </task>
     <servers />
   </component>
@@ -163,6 +173,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1202" y="625" key="com.intellij.ide.util.TipDialog" timestamp="1576825563484">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state x="1202" y="625" key="com.intellij.ide.util.TipDialog/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1576825563484" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
