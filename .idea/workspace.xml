@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="" />
+    <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -157,7 +165,9 @@
       <workItem from="1574713454633" duration="59000" />
       <workItem from="1576436336364" duration="853000" />
       <workItem from="1576824133628" duration="113000" />
-      <workItem from="1578951054234" duration="151000" />
+      <workItem from="1578951054234" duration="378000" />
+      <workItem from="1578951448417" duration="71000" />
+      <workItem from="1578951525060" duration="11000" />
     </task>
     <servers />
   </component>
@@ -178,14 +188,30 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom" timestamp="1578951535832">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951535832" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center" timestamp="1578951535832">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951535832" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left" timestamp="1578951535832">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951535832" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right" timestamp="1578951535832">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951535832" />
     <state x="997" y="409" key="NewModule_or_Project.wizard" timestamp="1578951197907">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
     <state x="997" y="409" key="NewModule_or_Project.wizard/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951197907" />
-    <state x="835" y="290" key="SettingsEditor" timestamp="1578951205447">
+    <state x="835" y="290" key="SettingsEditor" timestamp="1578951503423">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state x="835" y="290" key="SettingsEditor/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951205447" />
+    <state x="835" y="290" key="SettingsEditor/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1578951503423" />
     <state x="1202" y="625" key="com.intellij.ide.util.TipDialog" timestamp="1576825563484">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
