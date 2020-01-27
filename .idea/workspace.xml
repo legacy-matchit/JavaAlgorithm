@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Examples/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/src/MainDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmCollection/src/com/company/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmCollection/src/com/company/Algorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlgorithmCollection/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmCollection/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmCollection/src/com/company/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmCollection/src/com/company/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scheduler/src/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scheduler/src/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scheduler/src/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scheduler/src/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scheduler/src/SchdulerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scheduler/src/SchdulerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCollection/com/company/Algorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCollection/com/company/Algorithm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCollection/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCollection/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmCollection/com/company/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmCollection/com/company/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scheduler/Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scheduler/Job.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scheduler/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scheduler/Machine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scheduler/SchdulerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scheduler/SchdulerDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SchdulerDemo">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="AlgorithmCollection" />
@@ -131,8 +118,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SchdulerDemo" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SchdulerDemo" />
         <item itemvalue="Application.MainDemo (1)" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.Main" />
@@ -185,7 +172,7 @@
       <workItem from="1578951559813" duration="136000" />
       <workItem from="1578952614766" duration="1208000" />
       <workItem from="1579641978590" duration="308000" />
-      <workItem from="1579642788969" duration="6983000" />
+      <workItem from="1579642788969" duration="12454000" />
     </task>
     <servers />
   </component>
@@ -206,26 +193,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1840" y="341" key="#com.intellij.ide.util.MemberChooser" timestamp="1579645926161">
+    <state x="1840" y="341" key="#com.intellij.ide.util.MemberChooser" timestamp="1580160172333">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state x="1840" y="341" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1579645926161" />
-    <state width="2518" height="270" key="GridCell.Tab.0.bottom" timestamp="1580148999025">
+    <state x="1840" y="341" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580160172333" />
+    <state width="2518" height="270" key="GridCell.Tab.0.bottom" timestamp="1580162293525">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.bottom/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580148999025" />
-    <state width="2518" height="270" key="GridCell.Tab.0.center" timestamp="1580148999024">
+    <state width="2518" height="270" key="GridCell.Tab.0.bottom/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293525" />
+    <state width="2518" height="270" key="GridCell.Tab.0.center" timestamp="1580162293524">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.center/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580148999024" />
-    <state width="2518" height="270" key="GridCell.Tab.0.left" timestamp="1580148999023">
+    <state width="2518" height="270" key="GridCell.Tab.0.center/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293524" />
+    <state width="2518" height="270" key="GridCell.Tab.0.left" timestamp="1580162293523">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.left/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580148999023" />
-    <state width="2518" height="270" key="GridCell.Tab.0.right" timestamp="1580148999024">
+    <state width="2518" height="270" key="GridCell.Tab.0.left/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293523" />
+    <state width="2518" height="270" key="GridCell.Tab.0.right" timestamp="1580162293524">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.right/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580148999024" />
+    <state width="2518" height="270" key="GridCell.Tab.0.right/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293524" />
     <state x="997" y="409" key="NewModule_or_Project.wizard" timestamp="1578951197907">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
