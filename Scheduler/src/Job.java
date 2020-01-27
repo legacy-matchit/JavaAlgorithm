@@ -1,4 +1,4 @@
-public class Job {
+public class Job implements Comparable<Job>{
 
     private String name;
     private int time;
@@ -10,6 +10,10 @@ public class Job {
 
     public int getTime(){
         return time;
+    }
+
+    public int compareTo(Job j){
+        return Integer.compare(j.time,time);
     }
 
     @Override

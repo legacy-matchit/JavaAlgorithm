@@ -194,9 +194,44 @@ public class Algorithm {
             index++; // 전체인덱스를 추적하기위한 인덱스
         }
 
-        //앞쪽 파트의 데이터가 남아있으면 남아있는만큼 복사()
+        //앞쪽 파트의 데이터가 남아있으면 남아있는만큼 복사() 뒤쪽파트는 arr 배열에 이미 값이 정렬되어 있음
         for (int i = 0; i <= mid - part1; i++){
             arr[index+i] = tem[part1+i];
         }
     }
+
+    public static int binarySearch(int[] a, int key){
+        return binarySearch(a,key,0,a.length-1);
+    }
+    private static int binarySearch(int[] a, int key, int start, int end){
+        if(start <= end){
+            int mid = (start + end) /2;
+            if(key < a[mid]){
+                return binarySearch(a,key,start,mid-1);
+            }else if(key > a[mid]){
+                return binarySearch(a,key,mid+1,end);
+            }else{
+                return mid;
+            }
+        }else{
+            return -1;
+        }
+    }
+    public static <E extends Comparable<E>> int binarySearch(E[] a, E key){
+        return binarySearch(a,key,0,a.length-1);
+    }
+    private static <E extends Comparable<E>> int binarySearch(E[] a, E key, int start, int end){
+        if(start <= end){
+            int mid = (start + end)/2;
+            int compResult = key.compareTo(a[mid]);
+            if(compResult == 0){
+                return mid;
+            }else if(compResult < 0){
+                return binarySearch(a,key,start,mid-1);
+            }else{
+                return binarySearch(a,key,mid+1,end);
+            }
+        }else{return -1;}
+    }
+
 }

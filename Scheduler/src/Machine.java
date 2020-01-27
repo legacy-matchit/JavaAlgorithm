@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Machine {
+public class Machine implements Comparable<Machine>{
 
     private int nbr;
     private ArrayList<Job> jobs;
@@ -36,6 +36,14 @@ public class Machine {
             time += j.getTime();
         }
         return time;
+    }
+
+    public int compareTo(Machine m){
+        int result = Integer.compare(getTotalTime(),m.getTotalTime());
+        if(result == 0){
+            result = Integer.compare(jobs.size(),m.jobs.size());
+        }
+        return result;
     }
 
     @Override

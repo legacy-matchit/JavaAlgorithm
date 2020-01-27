@@ -27,4 +27,15 @@ public class Recursion {
             recur(n-2);
         }
     }
+
+    //Hanoi
+    public static void hanoi(int n, int start, int end, int middle){
+        if(n==1){
+            System.out.println("Move start: " + start + " to : " + end);
+        }else{
+            hanoi(n-1,start,middle,end);
+            System.out.println("Move start: " + start + " to : " + end);
+            hanoi(n-1,middle,end,start);
+        }
+    }
 }

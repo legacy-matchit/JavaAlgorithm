@@ -39,5 +39,10 @@ public class Main {
         Algorithm.mergeSort(sample);
         System.out.println(Arrays.toString(sample));
        // System.out.println(Arrays.toString(Algorithm.quickSort(sample)));
+
+        Recursion.hanoi(3,1,3,2);
+
+        String [] s = {"a","b","c","d","e","f","g","h"};
+        System.out.println(Algorithm.binarySearch(s,"h"));
     }
 }
