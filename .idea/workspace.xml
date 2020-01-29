@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="322f5f6c-300d-4bfd-89a0-15541f07a5ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/DoubleLinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/SingleLinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examples/Examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +59,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="AlgorithmCollection" />
@@ -56,14 +76,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MainTest" />
       <item itemvalue="Application.SchdulerDemo" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.MainDemo (1)" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.SchdulerDemo" />
         <item itemvalue="Application.MainDemo (1)" />
         <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +180,7 @@
       <workItem from="1578951559813" duration="136000" />
       <workItem from="1578952614766" duration="1208000" />
       <workItem from="1579641978590" duration="308000" />
-      <workItem from="1579642788969" duration="12454000" />
+      <workItem from="1579642788969" duration="19723000" />
     </task>
     <servers />
   </component>
@@ -193,22 +205,38 @@
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
     <state x="1840" y="341" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580160172333" />
-    <state width="2518" height="270" key="GridCell.Tab.0.bottom" timestamp="1580162293525">
+    <state width="2518" height="270" key="GridCell.Tab.0.bottom" timestamp="1580315192123">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.bottom/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293525" />
-    <state width="2518" height="270" key="GridCell.Tab.0.center" timestamp="1580162293524">
+    <state width="2518" height="270" key="GridCell.Tab.0.bottom/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580315192123" />
+    <state width="2518" height="270" key="GridCell.Tab.0.center" timestamp="1580315192122">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.center/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293524" />
-    <state width="2518" height="270" key="GridCell.Tab.0.left" timestamp="1580162293523">
+    <state width="2518" height="270" key="GridCell.Tab.0.center/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580315192122" />
+    <state width="2518" height="270" key="GridCell.Tab.0.left" timestamp="1580315192122">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.left/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293523" />
-    <state width="2518" height="270" key="GridCell.Tab.0.right" timestamp="1580162293524">
+    <state width="2518" height="270" key="GridCell.Tab.0.left/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580315192122" />
+    <state width="2518" height="270" key="GridCell.Tab.0.right" timestamp="1580315192123">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state width="2518" height="270" key="GridCell.Tab.0.right/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580162293524" />
+    <state width="2518" height="270" key="GridCell.Tab.0.right/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580315192123" />
+    <state width="2518" height="473" key="GridCell.Tab.1.bottom" timestamp="1580308661875">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="2518" height="473" key="GridCell.Tab.1.bottom/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580308661875" />
+    <state width="2518" height="473" key="GridCell.Tab.1.center" timestamp="1580308661874">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="2518" height="473" key="GridCell.Tab.1.center/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580308661874" />
+    <state width="2518" height="473" key="GridCell.Tab.1.left" timestamp="1580308661874">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="2518" height="473" key="GridCell.Tab.1.left/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580308661874" />
+    <state width="2518" height="473" key="GridCell.Tab.1.right" timestamp="1580308661875">
+      <screen x="0" y="23" width="2560" height="1347" />
+    </state>
+    <state width="2518" height="473" key="GridCell.Tab.1.right/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580308661875" />
     <state x="997" y="409" key="NewModule_or_Project.wizard" timestamp="1578951197907">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
@@ -221,10 +249,10 @@
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
     <state x="1202" y="625" key="com.intellij.ide.util.TipDialog/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1579642790504" />
-    <state x="1285" y="540" key="new project wizard" timestamp="1580145913887">
+    <state x="1285" y="540" key="new project wizard" timestamp="1580305590491">
       <screen x="0" y="23" width="2560" height="1347" />
     </state>
-    <state x="1285" y="540" key="new project wizard/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580145913887" />
+    <state x="1285" y="540" key="new project wizard/0.23.2560.1347/-1080.23.1080.1897@0.23.2560.1347" timestamp="1580305590491" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
